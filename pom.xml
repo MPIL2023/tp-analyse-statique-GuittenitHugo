@@ -6,7 +6,7 @@
  
   <parent>
     <groupId>tp-analyse-statique-GuittenitHugo</groupId>
-    <artifactId>spring-petclinic</artifactId>
+    <artifactId>project</artifactId>
     <version>${revision}</version>
     <relativePath>spring-petclinic</relativePath>
   </parent>
